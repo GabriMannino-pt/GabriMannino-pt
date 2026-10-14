@@ -20,8 +20,8 @@ I specialize in building **high-reliability software** that solves complex real-
 ## 🚀 Featured Production & Showcase Repositories
 
 | Repository | Tech Stack | Architecture & Focus | Commercial Context |
-| :--- | :--- | :--- | :--- |
 | [**`danceflow-saas`**](https://github.com/GabriMannino-pt/danceflow-saas) | `React 19` `TypeScript` `Tailwind` `Firebase` `Stripe` | Enterprise management platform with biometric touch signatures, automated receipts, QR self-service registration, and Stripe drawer payments. | Commissioned by *Tropical Style Dance Academy* |
+| [**`TravelGraph`**](https://github.com/GabriMannino-pt/TravelGraph) | `Next.js 15` `TypeScript` `LangGraph` `Tailwind` `Firebase` | Autonomous multi-agent travel platform combining a stateful itinerary graph with an autonomous C-Suite & Execution marketing agency. | AI Agent Orchestration & Tourism Platform |
 | [**`Vedetta-ai`**](https://github.com/GabriMannino-pt/Vedetta-ai) | `Node.js` `TypeScript` `Gemini Pro` `SQLite` `Telegram` | Autonomous intelligence engine that monitors developer feeds, performs AI scoring with Google Gemini, and delivers real-time Telegram alerts. | Independent AI Automation Project |
 | [**`AgriConta-Core`**](https://github.com/GabriMannino-pt/AgriConta-Core) | `Python` `Pandas` `PDFPlumber` `OCR` `CLI` | Multi-pass accounting reconciliation and managerial cost analyzer. Automates invoice-to-bank matching and cuts audit time from 40 hours to 5 minutes. | Developed for *Azienda Agricola Il Casale Rosso* |
 | [**`AvvocatoAI-Engine`**](https://github.com/GabriMannino-pt/AvvocatoAI-Engine) | `Python` `FastAPI` `OpenCV` `Tesseract` `Pydantic` | Forensic document analysis pipeline. Reconstructs degraded banking scans, validates mathematical balance continuity, and flags civil law violations. | Legal Intelligence & Civil Litigation Tool |
