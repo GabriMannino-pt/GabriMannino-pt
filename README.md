@@ -1,4 +1,4 @@
-# Hi, I'm Gabriele Mannino 👋
+# Hi, I'm Gabriele Mannino 
 ### AI & Full-Stack Software Engineer | Multi-Agent Systems, FinTech & Quantitative Architectures
 📍 **Catania, Italy (Open to EU/Global Remote Roles, B2B/EOR & UAE Relocation)**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/gabriele-mannino-dev)** · 📧 **[Email](mailto:gabri.mannino.lavoro@gmail.com)** · 💼 **[GitHub Portfolio](https://github.com/GabriMannino-pt)**
