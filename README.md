@@ -20,6 +20,7 @@ Unlike prototype-only AI wrappers, I build auditable, type-safe production syste
 
 | Repository | Tech Stack | Architecture & Engineering Focus | CI / Containerization |
 | :--- | :--- | :--- | :---: |
+| [**`OmniPilot-MCP`**](https://github.com/GabriMannino-pt/OmniPilot-MCP) | `TypeScript` `Playwright` `MCP (2024-11-05)` `React 19` `Sharp` | Autonomous Executive Agent with Set-of-Mark (SoM) Grounding, Bilingual Cockpit & Deterministic 3-Tier Pre-Execution Visual Firewall. | ✅ GitHub Actions<br/>🐳 Docker |
 | [**`Vedetta-ai`**](https://github.com/GabriMannino-pt/Vedetta-ai) | `TypeScript` `Node.js` `Gemini Pro` `SQLite` `Supabase` | Autonomous B2B discovery, evidence-guarded outreach, and career intelligence engine (118 modules, 22 verification suites). | ✅ GitHub Actions<br/>🐳 Docker |
 | [**`AvvocatoAI-Engine`**](https://github.com/GabriMannino-pt/AvvocatoAI-Engine) | `Python` `FastAPI` `OpenCV` `Tesseract` `Pydantic` | Forensic banking & legal document intelligence pipeline. Isolates deterministic algebraic reconciliation from generative legal reporting. | ✅ GitHub Actions<br/>🐳 Docker |
 | [**`Quant-Ichimoku-Engine`**](https://github.com/GabriMannino-pt/Quant-Ichimoku-Engine) | `Python` `TypeScript` `MQL4/MQL5` | Multi-asset causal Ichimoku backtesting engine, Walk-Forward Out-of-Sample validator, TS neural weight clipper, and MQL5 execution bridge. | ✅ GitHub Actions<br/>🐳 Docker |
